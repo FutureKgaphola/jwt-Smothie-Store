@@ -1,0 +1,26 @@
+/smothies/node_modules
+
+/node_modules
+/smothies/.pnp
+/smothies/.pnp.js
+
+# testing
+/smothies/coverage
+
+# production
+/smothie/build
+
+# misc
+/smothies/.DS_Store
+/smothies/.env.local
+/smothies/.env.development.local
+/smothies/.env.test.local
+/smothies/.env.production.local
+/smothies/.env
+
+/smothies/npm-debug.log*
+/smothies/yarn-debug.log*
+/smothies/yarn-error.log*
+
+/Backend/node_modules
+/Backend/.env
